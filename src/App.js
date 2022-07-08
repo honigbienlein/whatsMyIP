@@ -1,5 +1,6 @@
 import './App.css';
 import Header from './Header';
+import Ipinfo from './Ipinfo';
 import Searchbar from './Searchbar';
 
 export default function App() {
@@ -7,6 +8,7 @@ export default function App() {
     <div className="App">
       <Header />
       <Searchbar />
+      <Ipinfo />
     </div>
   );
 }

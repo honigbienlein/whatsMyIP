@@ -19,3 +19,10 @@ h1{
 .searchbar{
   width: 25%;
 }
+
+.ipInfo{
+  margin-top: 1em;
+  text-align: left;
+  border-style: dashed;
+  background-color: aqua;
+}
