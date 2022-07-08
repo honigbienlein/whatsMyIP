@@ -9,8 +9,10 @@ export default function App() {
     <div className="App">
       <Header />
       <Searchbar />
-      <Ipinfo />
-      <Map />
+      <div className='center'>
+        <Ipinfo />
+        <Maps />
+      </div>
     </div>
   );
 }
