@@ -15,3 +15,7 @@ code {
 h1{
   background-color: aqua;
 }
+
+.searchbar{
+  width: 25%;
+}
